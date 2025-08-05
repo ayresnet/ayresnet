@@ -5,6 +5,12 @@
 <h1 align="center">Bienvenido a AyresNet 👋</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/ESP32-ready-blue?logo=espressif" />
+  <img src="https://img.shields.io/badge/Firebase-integrated-orange?logo=firebase" />
+  <img src="https://img.shields.io/badge/WordPress-eCommerce-blueviolet?logo=wordpress" />
+</p>
+
+<p align="center">
   Tecnología conectada con vos. Soluciones IoT, desarrollo web y venta de tecnología.
 </p>
 

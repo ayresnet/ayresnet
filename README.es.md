@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ayresnet.com/wp-content/uploads/2024/12/ayresnet-logo-transparente-blanco.webp" width="250" alt="AyresNet logo"/>
+  <img src="https://res.cloudinary.com/dxunooptp/image/upload/v1754359437/banner_github_20250804_225256_0000_i9yrwv.jpg" alt="AyresNet logo"/>
 </p>
 
 <h1 align="center">Bienvenido a AyresNet 👋</h1>

@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/ESP32-ready-blue?logo=espressif" />
   <img src="https://img.shields.io/badge/Firebase-integrated-orange?logo=firebase" />
   <img src="https://img.shields.io/badge/WordPress-eCommerce-blueviolet?logo=wordpress" />
+  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-%F0%9F%8F%94%EF%B8%8F-blue" />
 </p>
 
 <p align="center">

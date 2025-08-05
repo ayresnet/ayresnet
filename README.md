@@ -2,50 +2,50 @@
   <img src="https://ayresnet.com/wp-content/uploads/2024/12/ayresnet-logo-transparente-blanco.webp" width="250" alt="AyresNet logo"/>
 </p>
 
-<h1 align="center">Bienvenido a AyresNet 👋</h1>
+<h1 align="center">Welcome to AyresNet 👋</h1>
 
 <p align="center">
-  Tecnología conectada con vos. Soluciones IoT, desarrollo web y venta de tecnología.
+  Technology connected to you. IoT solutions, web development, and tech sales.
 </p>
 
 ---
 
-## 🚀 ¿Quiénes somos?
+## 🚀 Who Are We?
 
-**AyresNet** es una empresa tecnológica con base en Argentina. Nos dedicamos a:
+**AyresNet** is a tech company based in Argentina. We specialize in:
 
-- 🧠 Desarrollo de soluciones **IoT** personalizadas (ESP32, Firebase, sistemas embebidos)
-- 🌐 Creación de sitios web modernos con **WordPress + WooCommerce**
-- 📱 Venta de **celulares, tablets, notebooks y consolas**
-- 🧩 Integración de APIs y automatizaciones
+- 🧠 Custom **IoT solutions** (ESP32, Firebase, embedded systems)
+- 🌐 Building modern websites with **WordPress + WooCommerce**
+- 📱 Selling **phones, tablets, laptops, and gaming consoles**
+- 🧩 API integrations and automation
 
 ---
 
-## 🛠️ Tecnologías que usamos
+## 🛠️ Technologies We Use
 
 - 🔥 Firebase Realtime Database & Auth
 - 📶 ESP32 + C++ (Arduino / PlatformIO)
 - 🖥️ WordPress, WooCommerce
-- 📊 Google Sheets, Webhooks, APIs REST
-- 📦 Hosting propio y soluciones escalables
+- 📊 Google Sheets, Webhooks, REST APIs
+- 📦 Custom hosting and scalable solutions
 
 ---
 
-## 📱 Proyectos destacados
+## 📱 Featured Projects
 
-| Proyecto        | Descripción                                                   |
-|-----------------|---------------------------------------------------------------|
-| **iAlarma**     | Sistema de alarmas IoT con control remoto vía web            |
-| **iPortón**     | Control inteligente de portones con autenticación segura     |
-| **Panel IoT**   | Panel web de administración central con gestión de usuarios  |
+| Project        | Description                                                   |
+|----------------|---------------------------------------------------------------|
+| **iAlarma**     | IoT alarm system with remote web control                      |
+| **iPortón**     | Smart gate control with secure authentication                 |
+| **IoT Panel**   | Central admin web panel with user management                  |
 
 ---
 
-## 🔗 Sitio web y redes
+## 🔗 Website & Social Media
 
-- 🌍 Sitio web: [https://ayresnet.com](https://ayresnet.com)
+- 🌍 Website: [https://ayresnet.com](https://ayresnet.com)
 - 📱 Instagram: [@ayresnetoficial](https://instagram.com/ayresnetoficial)
-- 📧 Contacto: info@ayresnet.com
+- 📧 Contact: info@ayresnet.com
 
 ---
 
@@ -54,5 +54,9 @@
 </p>
 
 <p align="center">
-  ¡Gracias por visitarnos! ✨
+  Thanks for visiting! ✨
 </p>
+
+---
+
+📄 Prefer to read this in **Spanish**? Check out [README.es.md](README.es.md)

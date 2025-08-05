@@ -56,6 +56,7 @@
 <p align="center">
   ¡Gracias por visitarnos! ✨
 </p>
+
 ---
 📄 ¿Preferís leer esto en **inglés**? Visitá [README.md](README.md)
 

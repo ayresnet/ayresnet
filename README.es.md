@@ -48,6 +48,19 @@
 
 ---
 
+## 🧩 Contribuciones Open Source
+
+Creemos en compartir conocimiento y en empoderar a otros desarrolladores. Estos son algunos de nuestros proyectos de código abierto disponibles bajo la **licencia MIT**:
+
+| Proyecto              | Descripción                                                              |
+|-----------------------|--------------------------------------------------------------------------|
+| **WiFiManager-ESP32** | Simplifica la configuración Wi-Fi en dispositivos IoT basados en ESP32   |
+| **AyresShell**        | Shell de comandos liviano para sistemas embebidos y pruebas              |
+
+🔗 Explorá más en nuestro GitHub: github.com/ayresnet
+
+---
+
 ## 🔗 Sitio web y redes
 
 - 🌍 Sitio web: [https://ayresnet.com](https://ayresnet.com)

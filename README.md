@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dxunooptp/image/upload/v1754359437/banner_github_20250804_225256_0000_i9yrwv.jpg" alt="AyresNet logo"/>
 </p>
 
-<h1 align="center">Welcome to AyresNet 👋</h1>
+# AyresNet — IoT, Web & Tech Solutions 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/ESP32-ready-blue?logo=espressif" />
@@ -12,60 +12,62 @@
 </p>
 
 <p align="center">
-  Technology connected to you. IoT solutions, web development, and tech sales.
+  Technology connected to you — IoT solutions, web development, and consumer electronics.
 </p>
 
 ---
 
-## 🚀 Who Are We?
+## 🚀 Who We Are
 
-**AyresNet** is a tech company based in Argentina. We specialize in:
+**AyresNet** is a technology company based in Argentina.  
+We focus on **IoT, web development, and tech retail**, combining hardware, cloud, and e-commerce.
 
-- 🧠 Custom **IoT solutions** (ESP32, Firebase, embedded systems)
-- 🌐 Building modern websites with **WordPress + WooCommerce**
-- 📱 Selling **phones, tablets, laptops, and gaming consoles**
-- 🧩 API integrations and automation
+- 🧠 Custom **IoT solutions** (ESP32, Firebase, embedded systems)  
+- 🌐 Modern websites with **WordPress + WooCommerce**  
+- 📱 Sales of **phones, tablets, laptops, and gaming consoles**  
+- 🧩 API integrations and automation  
 
 ---
 
 ## 🛠️ Technologies We Use
 
-- 🔥 Firebase Realtime Database & Auth
-- 📶 ESP32 + C++ (Arduino / PlatformIO)
-- 🖥️ WordPress, WooCommerce
-- 📊 Google Sheets, Webhooks, REST APIs
-- 📦 Custom hosting and scalable solutions
+- 🔥 Firebase Realtime Database & Auth  
+- 📶 ESP32 + C++ (Arduino / PlatformIO)  
+- 🖥️ WordPress, WooCommerce  
+- 📊 Google Sheets, Webhooks, REST APIs  
+- 📦 Custom hosting and scalable solutions  
 
 ---
 
 ## 📱 Featured Projects
 
-| Project        | Description                                                   |
-|----------------|---------------------------------------------------------------|
-| **iAlarma**     | IoT alarm system with remote web control                      |
-| **iPortón**     | Smart gate control with secure authentication                 |
-| **IoT Panel**   | Central admin web panel with user management                  |
+| Project      | Description                                                  |
+|--------------|--------------------------------------------------------------|
+| **iAlarma**  | IoT alarm system with remote control + smoke generator (HAM-FL) |
+| **iPortón**  | Smart gate opener with secure Firebase authentication        |
+| **IoT Panel**| Centralized admin dashboard with device & user management    |
 
 ---
 
 ## 🧩 Open Source Contributions
 
-We believe in sharing knowledge and empowering developers. Here are some of our open-source tools available under the **MIT License**:
+We believe in sharing knowledge and empowering developers.  
+Some of our open-source tools (all under the **MIT License**):
 
-| Project              | Description                                                              |
-|----------------------|--------------------------------------------------------------------------|
-| **WiFiManager-ESP32** | Simplifies Wi-Fi configuration for ESP32-based IoT devices               |
-| **AyresShell**        | Lightweight command shell for embedded systems and testing               |
+| Project                                                                 | Description                                                                 |
+|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| [**AyresWiFiManager**](https://github.com/ayresnet/AyresWiFiManager)    | Modern WiFi Manager for ESP32/8266 — captive portal, LittleFS, NTP, LED, DNS |
+| [**AyresShell**](https://github.com/ayresnet/AyresShell)                | Lightweight command shell for ESP32 — debug and CLI for IoT devices          |
 
-🔗 Explore more on our GitHub: github.com/ayresnet
+⭐ Available on **Arduino IDE Library Manager** and **PlatformIO Registry**.  
 
 ---
 
 ## 🔗 Website & Social Media
 
-- 🌍 Website: [https://ayresnet.com](https://ayresnet.com)
-- 📱 Instagram: [@ayresnetoficial](https://instagram.com/ayresnetoficial)
-- 📧 Contact: info@ayresnet.com
+- 🌍 Website: [ayresnet.com](https://ayresnet.com)  
+- 📱 Instagram: [@ayresnetoficial](https://instagram.com/ayresnetoficial)  
+- 📧 Contact: info@ayresnet.com  
 
 ---
 
@@ -74,7 +76,7 @@ We believe in sharing knowledge and empowering developers. Here are some of our 
 </p>
 
 <p align="center">
-  Thanks for visiting! ✨
+  ⭐ Star our repositories if you find them useful — thanks for visiting! 🚀
 </p>
 
 ---

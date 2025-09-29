@@ -63,6 +63,16 @@ Algunos de nuestros proyectos open-source (todos bajo licencia **MIT**):
 
 ---
 
+## 🧭 Ayres Ecosystem (Open Source)
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dxunooptp/image/upload/v1759106095/ayres_ecosystem_github_1920x1080_v2_bajxno.jpg"
+       height="400"
+       alt="Ayres Ecosystem — Open Source by AyresNet" />
+</p>
+
+---
+
 ## 🔗 Sitio Web & Redes
 
 - 🌍 Web: [ayresnet.com](https://ayresnet.com)  

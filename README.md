@@ -63,6 +63,16 @@ Some of our open-source tools (all under the **MIT License**):
 
 ---
 
+## 🧭 Ayres Ecosystem (Open Source)
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dxunooptp/image/upload/v1759106095/ayres_ecosystem_github_1920x1080_v2_bajxno.jpg"
+       height="400"
+       alt="Ayres Ecosystem — Open Source by AyresNet" />
+</p>
+
+---
+
 ## 🔗 Website & Social Media
 
 - 🌍 Website: [ayresnet.com](https://ayresnet.com)  

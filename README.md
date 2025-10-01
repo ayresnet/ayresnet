@@ -29,6 +29,15 @@ We focus on **IoT, web development, and tech retail**, combining hardware, cloud
 
 ---
 
+## 🧭 Philosophy
+
+> "The best technology is the one that needs no explanation."
+
+AyresNet prioritizes the end-user experience.  
+Each device is designed to work intuitively, without complex configurations or unnecessary dependencies.
+
+---
+
 ## 🛠️ Technologies We Use
 
 - 🔥 Firebase Realtime Database & Auth  
@@ -45,7 +54,7 @@ We focus on **IoT, web development, and tech retail**, combining hardware, cloud
 |--------------|--------------------------------------------------------------|
 | **iAlarma**  | IoT alarm system with remote control + smoke generator (HAM-FL) |
 | **iPortón**  | Smart gate opener with secure Firebase authentication        |
-| **IoT Panel**| Centralized admin dashboard with device & user management    |
+| **IoT WebAPP**| Centralized admin dashboard with device & user management    |
 
 ---
 
@@ -57,7 +66,7 @@ Some of our open-source tools (all under the **MIT License**):
 | Project                                                                 | Description                                                                 |
 |-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | [**AyresWiFiManager**](https://github.com/ayresnet/AyresWiFiManager)    | Modern WiFi Manager for ESP32/8266 — captive portal, LittleFS, NTP, LED, DNS |
-| [**AyresShell**](https://github.com/ayresnet/AyresShell)                | Lightweight command shell for ESP32 — debug and CLI for IoT devices          |
+| [**AyresShell**](https://github.com/ayresnet/AyresShell)                | DOS-style command interface for ESP32 — explore, debug, and control your device like a PC. <br>Compatible with LittleFS. |
 
 ⭐ Available on **Arduino IDE Library Manager** and **PlatformIO Registry**.  
 

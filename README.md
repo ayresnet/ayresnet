@@ -22,6 +22,9 @@
 **AyresNet** is a technology company based in Argentina.  
 We focus on **IoT, web development, and tech retail**, combining hardware, cloud, and e-commerce.
 
+Unlike many brands that resell generic products, at AyresNet we **design every IoT device from scratch**, both the electronics and the software.  
+Every board, every line of code, every technical decision is our own — we don’t buy devices just to put a label on them.
+
 - 🧠 Custom **IoT solutions** (ESP32, Firebase, embedded systems)  
 - 🌐 Modern websites with **WordPress + WooCommerce**  
 - 📱 Sales of **phones, tablets, laptops, and gaming consoles**  
